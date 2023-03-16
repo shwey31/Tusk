@@ -6,6 +6,10 @@ pasta
 payasam
 
 
+pizza
+bean
+
+
 
 
 Thank you
